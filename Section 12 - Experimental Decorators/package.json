@@ -1,0 +1,17 @@
+{
+  "name": "experimental-decorators",
+  "version": "1.0.0",
+  "description": "Testing Experimental Decorators with lite-server",
+  "license": "ISC",
+  "author": "Souradeep",
+  "type": "commonjs",
+  "main": "app.js",
+  "types": "./app.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
